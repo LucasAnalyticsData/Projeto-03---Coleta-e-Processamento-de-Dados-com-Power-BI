@@ -1,5 +1,4 @@
 Realizei a junção dos colaboradores e respectivos nomes dos gerentes.
-Para isso achei mais facil utilizar a consulta SQL, alterando então a forma da importação inicial, a fim de associar quanto antes o Gerente ao funcionario.
 Utilizei a seguinte consulta SQL:
 
 SELECT
